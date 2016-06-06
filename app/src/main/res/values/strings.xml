@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListEx2</string>
+    <string name="Groceries">Groceries</string>
+    <string-array name="names">
+        <item>Groceries:</item>
+        <item>Apples</item>
+        <item>Aubergine</item>
+        <item>Bananas</item>
+        <item>Strawberries</item>
+        <item>Coconut</item>
+        <item>Watermelon</item>
+        <item>Cheese</item>
+        <item>Pepper</item>
+        <item>Orange</item>
+        <item>Milk</item>
+
+    </string-array>
+</resources>
